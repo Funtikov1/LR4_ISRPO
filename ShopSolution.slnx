@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ShopLibrary.Tests/ShopLibrary.Tests.csproj" Id="9114792b-5d75-4a4e-ad10-0b9e5247df19" />
+  <Project Path="ShopLibrary/ShopLibrary.csproj" Id="499478ee-e019-4c39-983e-d1d1d9d9cb97" />
+</Solution>
